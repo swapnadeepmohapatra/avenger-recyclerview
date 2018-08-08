@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "321930094002",
+    "firebase_url": "https://avenger-88f33.firebaseio.com",
+    "project_id": "avenger-88f33",
+    "storage_bucket": "avenger-88f33.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:321930094002:android:1ccd4bb968be30bf",
+        "android_client_info": {
+          "package_name": "com.example.homepc.avenger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "321930094002-gqi2b7lqlrk4ri1kqseu49p6upjj7ukb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.homepc.avenger",
+            "certificate_hash": "84c6e8d1c2f849456176709831441a4ff5f6d692"
+          }
+        },
+        {
+          "client_id": "321930094002-4d5tsam5qgkpcs125jh81061ft0tq269.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYLzRaIre2URQy596CoCpHWlESoQyWcxU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "321930094002-4d5tsam5qgkpcs125jh81061ft0tq269.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
